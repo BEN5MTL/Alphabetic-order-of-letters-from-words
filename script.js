@@ -1,5 +1,4 @@
-function OrdineAlfabeticaCuvant() {
-  let cuv = prompt("Introduceti cuvantul:");
+function OrdineAlfabeticaCuvant(cuv) {
   let litere = cuv.split("");
   litere = litere.sort();
   return litere.join("");

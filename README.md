@@ -7,4 +7,5 @@
 - The letters are joined and shown to the user.
 - Finally the function is called.
 ## How to use it
-- Write a word
+- OrdineAlfabeticaCuvant("word")
+- Write a word in the "word" section
